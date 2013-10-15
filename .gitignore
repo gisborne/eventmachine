@@ -4,7 +4,6 @@ Makefile
 
 *.bundle
 *.dll
-*.so
 *.jar
 *.class
 *.o
